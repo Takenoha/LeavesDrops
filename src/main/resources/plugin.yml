@@ -1,0 +1,6 @@
+name: LeavesDrops
+version: '${project.version}'
+main: pro.freeserver.plugin.takenoha.leavesdrops.LeavesDrops
+api-version: 1.18
+authors: [ Takenoha ]
+description: Leaves drop original item controle
