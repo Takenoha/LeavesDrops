@@ -1,4 +1,4 @@
-package pro.freeserver.plugin.takenoha.leavesdrops;
+package pro.freeserver.plugin.takenoha.leavesdrops.handler;
 
 import java.util.Random;
 

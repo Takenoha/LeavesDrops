@@ -13,7 +13,7 @@ public class ItemStackAPI {
     private List<String> lore;
     private int customModelData;
 
-    ItemStackAPI(Material material, int amount, String itemName, List<String> lore, int customModelData) {
+    public ItemStackAPI(Material material, int amount, String itemName, List<String> lore, int customModelData) {
         this.material = material;
         this.amount = amount;
         this.itemName = itemName;

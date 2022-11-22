@@ -1,6 +1,7 @@
 package pro.freeserver.plugin.takenoha.leavesdrops;
 
 import org.bukkit.plugin.java.JavaPlugin;
+import pro.freeserver.plugin.takenoha.leavesdrops.events.BlockBreak;
 
 public final class LeavesDrops extends JavaPlugin {
 
